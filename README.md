@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mishael Momanyi
 =======================================================================================================================================
 
-Front End Web Developer, Designer and Aspiring Data Analyst
+Full stack web Developer, CyberSecurity Analyst
 -----------------------------------------------------------
 
-👋 Hello there! I'm Mish Hopkins, a passionate Front-End Web Developer (software developer) with a keen interest in creating innovative, interactive and attractive responsive Web solutions. I thrive on challenges and enjoy diving deep into complex technical problems to find elegant solutions. 💻 My journey in the world of programming began early 2022, and since then, I've been on an exciting learning adventure, continuously improving on my skills in various technologies and frameworks for front-end development using HTML, CSS, Bootstrap and JavaScript to back-end development with PHP, Python, Node.js, and React. 🔧 In software Dev, I believe in the power of collaboration and open-source development. I'm an active member of the tech community, contributing to open-source projects and sharing my knowledge. 🌱 My Vision and Mission is to delve into the fascinating world of machine learning, Robotics and artificial intelligence, explore ways to leverage these technologies to create intelligent and adaptive systems. 📫 Let's connect! through GitHub or LinkedIn to discuss new ideas, collaborate on projects, or just geek out over the latest trends in tech, I'm eager to engage with fellow developers and enthusiasts.
+👋 Hello there! I'm Mishael, a passionate Cybersecurity Analyst and a Part Time full stack developer (software developer) with a keen interest in creating innovative, interactive and attractive solutions. I thrive on challenges and enjoy diving deep into complex technical problems to find elegant solutions. 💻 My journey in the world of programming began early 2022, and since then, I've been on an exciting learning adventure, continuously improving on my skills in various technologies and frameworks full stack development using HTML, CSS, Bootstrap and JavaScript to back-end development with PHP.
 
 * 🌍  I'm based in NAIROBI CITY
 * 🖥️  See my portfolio at [MyPortifolio](http://me-workingonit)
 * ✉️  You can contact me at [mishaelmorara@gmail.com](mailto:mishaelmorara@gmail.com)
 * 🚀  I'm currently working on [Fashion Ecommerce Website](http://fashion Website)
-* 🧠  I'm learning REACT.JS
 * 🤝  I'm open to collaborating on FULL web projects
 * ⚡  I'm an IT Man - graduate in BSc in Information Technology- … Tell Someone
 
